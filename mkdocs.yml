@@ -1,6 +1,7 @@
 site_name: VisualFlow Wiki
 site_url: https://visual-flow.com
 repo_url: https://github.com/ibagroup-eu/Visual-Flow
+repo_name: ibagroup-eu/Visual-Flow
 theme:
   logo: assets/icon-logo-slider.png
   favicon: assets/icon-logo-slider.png
